@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+mark {
+  @apply bg-amber-200 text-inherit rounded-sm px-0.5;
+}
